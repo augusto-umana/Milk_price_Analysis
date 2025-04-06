@@ -2,6 +2,7 @@
 title: "Colombian Milk Price Analysis"
 author: "Augusto Umaña"
 format: gfm
+output-file: README.md
 fig-width: 7.65
 fig-height: 5.83
 fig-dpi: 300
