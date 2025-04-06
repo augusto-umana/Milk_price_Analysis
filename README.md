@@ -14,10 +14,12 @@ milk pricing in the country.
 
 Although the original project was conducted entirely in Spanish, this
 repository has been created in English to serve as part of my
-professional portfolio on [Upwork](https://www.upwork.com). The full
-scope of the project includes the end-to-end processing of primary data
-sources — from downloading and cleaning raw data to transforming and
-consolidating it into parquet files suitable for analysis and modeling.
+professional portfolio on
+[Upwork](https://www.upwork.com/freelancers/augustoumana "https://www.upwork.com/freelancers/augustoumana").
+The full scope of the project includes the end-to-end processing of
+primary data sources — from downloading and cleaning raw data to
+transforming and consolidating it into parquet files suitable for
+analysis and modeling.
 
 The project combines scripts developed in **Python** and **R**. However,
 I made this specific presentation in **R** using the **Quarto** document
